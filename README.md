@@ -1,5 +1,6 @@
 # Pedestrian_Attribute_Recognition
 
+This repo is heavily borowed from https://github.com/valencebond/Strong_Baseline_of_Pedestrian_Attribute_Recognition
 
 Paper [Rethinking of Pedestrian Attribute Recognition: Realistic Datasets with Efficient Method](https://arxiv.org/abs/2005.11909).
 
